@@ -1,0 +1,2 @@
+# m  h  dom  mon  dow   user  command
+0    2  *    *    6     root  tlmgr update --self && tlmgr update --all >> /var/log/tlmgr-update.log 2>&1 # Updates tlmgr and its packages at 3 AM (CET) / 2 AM (CEST) on Saturdays
