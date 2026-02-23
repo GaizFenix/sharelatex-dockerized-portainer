@@ -29,7 +29,7 @@ Open `.env` and fill in your values (site URL, app name, timezone, etc.).
 **Via Portainer (recommended):**
 1. Go to **Stacks → Add Stack → Git Repository**
 2. Enter the repo URL and branch
-3. Set the Compose path to `docker-compose.yml`
+3. Set the Compose path to `docker-compose.yaml`
 4. Add your `.env` contents under **Environment variables**
 5. Click **Deploy the stack**
 
